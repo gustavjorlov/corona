@@ -1,0 +1,1272 @@
+[
+  {
+    "country": "Italy",
+    "caseCount": 23980,
+    "deathCount": 1811,
+    "growthRateLast10Days": 7.9291019696707945,
+    "growthRateLast10DaysData": [
+      69.22222222222223,
+      0.0353356890459364,
+      0.9607695209354961,
+      1.1461305663640293,
+      2.367451381780962,
+      0.5436839176405119,
+      1.2044235924932976,
+      1.1964715316760224,
+      1.6028277634961439,
+      1.011703511053316
+    ]
+  },
+  {
+    "country": "Qatar",
+    "caseCount": 401,
+    "deathCount": 0,
+    "growthRateLast10Days": 5.34015068096204,
+    "growthRateLast10DaysData": [
+      3.764705882352941,
+      0.29310344827586204,
+      0.24369747899159663,
+      39.666666666666664,
+      2,
+      1,
+      3,
+      0.3333333333333333,
+      0.6,
+      2.5
+    ]
+  },
+  {
+    "country": "Denmark",
+    "caseCount": 875,
+    "deathCount": 1,
+    "growthRateLast10Days": 2.193972454313091,
+    "growthRateLast10DaysData": [
+      2.0869565217391304,
+      0.1796875,
+      0.8,
+      0.6349206349206349,
+      1.6688741721854305,
+      2.013333333333333,
+      10.714285714285714,
+      0.875,
+      2.6666666666666665,
+      0.3
+    ]
+  },
+  {
+    "country": "Austria",
+    "caseCount": 860,
+    "deathCount": 1,
+    "growthRateLast10Days": 2.1761678285535266,
+    "growthRateLast10DaysData": [
+      1.3576158940397351,
+      1.055944055944056,
+      1.2434782608695651,
+      1.796875,
+      1.2549019607843137,
+      1.7586206896551724,
+      9.666666666666666,
+      0.12,
+      0.7575757575757576,
+      2.75
+    ]
+  },
+  {
+    "country": "Peru",
+    "caseCount": 71,
+    "deathCount": 0,
+    "growthRateLast10Days": 2.027916666666677,
+    "growthRateLast10DaysData": [
+      5.6,
+      0.3125,
+      3.2,
+      0.8333333333333334,
+      3,
+      1,
+      0.3333333333333333,
+      6,
+      1e-13
+    ]
+  },
+  {
+    "country": "Portugal",
+    "caseCount": 245,
+    "deathCount": 0,
+    "growthRateLast10Days": 2.020205538355693,
+    "growthRateLast10DaysData": [
+      1.3333333333333333,
+      1.6764705882352942,
+      1.7894736842105263,
+      1.0555555555555556,
+      9,
+      0.2222222222222222,
+      1,
+      1.125,
+      2,
+      1
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "caseCount": 35,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.9694444444444543,
+    "growthRateLast10DaysData": [
+      8,
+      0.3333333333333333,
+      3,
+      0.1111111111111111,
+      2.25,
+      1,
+      1,
+      4,
+      1e-13
+    ]
+  },
+  {
+    "country": "Ireland",
+    "caseCount": 169,
+    "deathCount": 2,
+    "growthRateLast10Days": 1.9250647451963243,
+    "growthRateLast10DaysData": [
+      1.0526315789473684,
+      1.8095238095238095,
+      0.7777777777777778,
+      3.375,
+      0.5714285714285714,
+      7,
+      2,
+      0.2,
+      0.7142857142857143,
+      1.75
+    ]
+  },
+  {
+    "country": "Argentina",
+    "caseCount": 56,
+    "deathCount": 2,
+    "growthRateLast10Days": 1.913095238095248,
+    "growthRateLast10DaysData": [
+      1,
+      3.6666666666666665,
+      0.25,
+      1.7142857142857142,
+      2.3333333333333335,
+      3,
+      0.16666666666666666,
+      6,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "San Marino",
+    "caseCount": 98,
+    "deathCount": 7,
+    "growthRateLast10Days": 1.902391468180942,
+    "growthRateLast10DaysData": [
+      0.3157894736842105,
+      3.1666666666666665,
+      6,
+      0.25,
+      0.3076923076923077,
+      1.0833333333333333,
+      1.0909090909090908,
+      3.6666666666666665,
+      3,
+      0.14285714285714285
+    ]
+  },
+  {
+    "country": "Romania",
+    "caseCount": 139,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.864245614035088,
+    "growthRateLast10DaysData": [
+      1.0833333333333333,
+      0.96,
+      1.3157894736842106,
+      0.95,
+      2.5,
+      4,
+      1,
+      0.3333333333333333,
+      6,
+      0.5
+    ]
+  },
+  {
+    "country": "Poland",
+    "caseCount": 125,
+    "deathCount": 3,
+    "growthRateLast10Days": 1.8616959064327485,
+    "growthRateLast10DaysData": [
+      0.5833333333333334,
+      1.894736842105263,
+      1.0555555555555556,
+      2,
+      1.8,
+      0.8333333333333334,
+      1.2,
+      5,
+      0.25,
+      4
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "caseCount": 37,
+    "deathCount": 2,
+    "growthRateLast10Days": 1.8166666666666664,
+    "growthRateLast10DaysData": [
+      1.8,
+      0.8333333333333334,
+      3,
+      2,
+      1,
+      0.3333333333333333,
+      1,
+      3,
+      0.2,
+      5
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "caseCount": 1933,
+    "deathCount": 10,
+    "growthRateLast10Days": 1.7994738420393326,
+    "growthRateLast10DaysData": [
+      3.533613445378151,
+      1.1226415094339623,
+      1.394736842105263,
+      1.3103448275862069,
+      2.761904761904762,
+      0.6176470588235294,
+      1.2363636363636363,
+      0.45081967213114754,
+      4.066666666666666,
+      1.5
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "caseCount": 219,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.7909401709401709,
+    "growthRateLast10DaysData": [
+      0.95,
+      0.8888888888888888,
+      1.1538461538461537,
+      1.5,
+      1.7333333333333334,
+      3.75,
+      1.3333333333333333,
+      1,
+      0.6,
+      5
+    ]
+  },
+  {
+    "country": "Albania",
+    "caseCount": 42,
+    "deathCount": 1,
+    "growthRateLast10Days": 1.7383333333333533,
+    "growthRateLast10DaysData": [
+      0.8,
+      0.5,
+      0.8333333333333334,
+      12,
+      0.25,
+      1,
+      2,
+      2e-13
+    ]
+  },
+  {
+    "country": "Morocco",
+    "caseCount": 28,
+    "deathCount": 1,
+    "growthRateLast10Days": 1.7242424242424341,
+    "growthRateLast10DaysData": [
+      0.9090909090909091,
+      11,
+      1,
+      0.3333333333333333,
+      3,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "Turkey",
+    "caseCount": 18,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.70000000000001,
+    "growthRateLast10DaysData": [
+      16,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "India",
+    "caseCount": 93,
+    "deathCount": 2,
+    "growthRateLast10Days": 1.6702649162431775,
+    "growthRateLast10DaysData": [
+      0.42857142857142855,
+      0.875,
+      4,
+      0.08695652173913043,
+      3.8333333333333335,
+      0.6,
+      3.3333333333333335,
+      1.5,
+      2,
+      0.045454545454545456
+    ]
+  },
+  {
+    "country": "Palestine",
+    "caseCount": 38,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.6663492063492764,
+    "growthRateLast10DaysData": [
+      0,
+      0.6,
+      5,
+      0.1111111111111111,
+      9,
+      0.3333333333333333,
+      0.3333333333333333,
+      1.2857142857142858,
+      7e-13
+    ]
+  },
+  {
+    "country": "Spain",
+    "caseCount": 7753,
+    "deathCount": 288,
+    "growthRateLast10Days": 1.6613459723075792,
+    "growthRateLast10DaysData": [
+      1.314060446780552,
+      1.2404237978810106,
+      1.4201388888888888,
+      1.7245508982035929,
+      1.1517241379310346,
+      0.7073170731707317,
+      3.8679245283018866,
+      2.8392857142857144,
+      0.49557522123893805,
+      1.8524590163934427
+    ]
+  },
+  {
+    "country": "Israel",
+    "caseCount": 250,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.6191244239631337,
+    "growthRateLast10DaysData": [
+      1.1612903225806452,
+      3.1,
+      1.4285714285714286,
+      1.1666666666666667,
+      0.3870967741935484,
+      2.2142857142857144,
+      2.3333333333333335,
+      3,
+      1,
+      0.4
+    ]
+  },
+  {
+    "country": "Germany",
+    "caseCount": 4838,
+    "deathCount": 12,
+    "growthRateLast10Days": 1.5971129741749188,
+    "growthRateLast10DaysData": [
+      1.4229195088676672,
+      1.0577200577200576,
+      0.8640897755610972,
+      2.959409594095941,
+      1.7261146496815287,
+      0.6624472573839663,
+      4.3090909090909095,
+      0.3374233128834356,
+      0.573943661971831,
+      2.0579710144927534
+    ]
+  },
+  {
+    "country": "Brunei Darussalam",
+    "caseCount": 50,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.584047619047629,
+    "growthRateLast10DaysData": [
+      3.3333333333333335,
+      0.25,
+      0.8571428571428571,
+      1.4,
+      10,
+      1e-13
+    ]
+  },
+  {
+    "country": "Chile",
+    "caseCount": 75,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.5177777777777777,
+    "growthRateLast10DaysData": [
+      0.7777777777777778,
+      1.8,
+      1,
+      1.6666666666666667,
+      1.5,
+      1.3333333333333333,
+      0.6,
+      5,
+      1,
+      0.5
+    ]
+  },
+  {
+    "country": "Hungary",
+    "caseCount": 39,
+    "deathCount": 1,
+    "growthRateLast10Days": 1.5166666666666668,
+    "growthRateLast10DaysData": [
+      1.3333333333333333,
+      0.6666666666666666,
+      3,
+      3,
+      0.3333333333333333,
+      3,
+      1,
+      0.3333333333333333,
+      1.5,
+      1
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "caseCount": 112,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.5150000000000001,
+    "growthRateLast10DaysData": [
+      2,
+      0.2,
+      2.5,
+      2.6666666666666665,
+      0.75,
+      4,
+      0.3333333333333333,
+      1,
+      1.5,
+      0.2
+    ]
+  },
+  {
+    "country": "Greece",
+    "caseCount": 331,
+    "deathCount": 4,
+    "growthRateLast10Days": 1.4987951504979369,
+    "growthRateLast10DaysData": [
+      2.710526315789474,
+      0.6666666666666666,
+      1.6764705882352942,
+      3.7777777777777777,
+      1.5,
+      0.5454545454545454,
+      1.5714285714285714,
+      0.3333333333333333,
+      1.6153846153846154,
+      0.5909090909090909
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "caseCount": 267,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.4845638749570977,
+    "growthRateLast10DaysData": [
+      1.3125,
+      1.8823529411764706,
+      1.5454545454545454,
+      0.9565217391304348,
+      2.875,
+      1.3333333333333333,
+      0.8571428571428571,
+      1,
+      1.75,
+      1.3333333333333333
+    ]
+  },
+  {
+    "country": "Australia",
+    "caseCount": 298,
+    "deathCount": 5,
+    "growthRateLast10Days": 1.4687007301641448,
+    "growthRateLast10DaysData": [
+      0.9423076923076923,
+      1.2682926829268293,
+      1.3666666666666667,
+      2.142857142857143,
+      1.1666666666666667,
+      0.6,
+      3.3333333333333335,
+      0.5454545454545454,
+      2.75,
+      0.5714285714285714
+    ]
+  },
+  {
+    "country": "Croatia",
+    "caseCount": 48,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.45,
+    "growthRateLast10DaysData": [
+      1.8333333333333333,
+      1,
+      0.6666666666666666,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "caseCount": 1308,
+    "deathCount": 35,
+    "growthRateLast10Days": 1.4466665833675503,
+    "growthRateLast10DaysData": [
+      0.5796766743648961,
+      3.700854700854701,
+      0.8731343283582089,
+      2.576923076923077,
+      1.0833333333333333,
+      0.7164179104477612,
+      1.558139534883721,
+      0.8958333333333334,
+      1.6,
+      0.8823529411764706
+    ]
+  },
+  {
+    "country": "Canada",
+    "caseCount": 304,
+    "deathCount": 1,
+    "growthRateLast10Days": 1.4282540911101282,
+    "growthRateLast10DaysData": [
+      0.8823529411764706,
+      1.7894736842105263,
+      1.0857142857142856,
+      3.5,
+      0.625,
+      1.0666666666666667,
+      3,
+      0.8333333333333334,
+      1,
+      0.5
+    ]
+  },
+  {
+    "country": "France",
+    "caseCount": 5423,
+    "deathCount": 127,
+    "growthRateLast10Days": 1.3920433214898258,
+    "growthRateLast10DaysData": [
+      1.1026252983293556,
+      1.067515923566879,
+      1.319327731092437,
+      1.1971830985915493,
+      1.336021505376344,
+      1.3006993006993006,
+      0.697560975609756,
+      3.9805825242718447,
+      0.5421052631578948,
+      1.3768115942028984
+    ]
+  },
+  {
+    "country": "Senegal",
+    "caseCount": 26,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.3653846153846252,
+    "growthRateLast10DaysData": [
+      2.5,
+      0.15384615384615385,
+      6.5,
+      2,
+      0.5,
+      2,
+      1e-13
+    ]
+  },
+  {
+    "country": "Belgium",
+    "caseCount": 886,
+    "deathCount": 4,
+    "growthRateLast10Days": 1.3392133861902364,
+    "growthRateLast10DaysData": [
+      1.5153846153846153,
+      0.8125,
+      1.8823529411764706,
+      1.8085106382978724,
+      1.6785714285714286,
+      0.717948717948718,
+      1.2580645161290323,
+      0.5166666666666667,
+      1.0169491525423728,
+      2.185185185185185
+    ]
+  },
+  {
+    "country": "Sweden",
+    "caseCount": 1032,
+    "deathCount": 3,
+    "growthRateLast10Days": 1.336611794656873,
+    "growthRateLast10DaysData": [
+      0.7248322147651006,
+      0.9612903225806452,
+      0.9810126582278481,
+      1.161764705882353,
+      1.7435897435897436,
+      1.7333333333333334,
+      1.0714285714285714,
+      1.75,
+      0.3157894736842105,
+      2.923076923076923
+    ]
+  },
+  {
+    "country": "Latvia",
+    "caseCount": 31,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.3214285714285814,
+    "growthRateLast10DaysData": [
+      0.7142857142857143,
+      2.3333333333333335,
+      0.5,
+      3,
+      1,
+      0.6666666666666666,
+      3,
+      1,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "United States of America",
+    "caseCount": 3774,
+    "deathCount": 69,
+    "growthRateLast10Days": 1.2922885162523952,
+    "growthRateLast10DaysData": [
+      1.0592020592020592,
+      1.5205479452054795,
+      1.4558404558404558,
+      1.2229965156794425,
+      1.0590405904059041,
+      1.355,
+      1.6528925619834711,
+      1.2736842105263158,
+      0.9047619047619048,
+      1.4189189189189189
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "caseCount": 61,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.2754689754689854,
+    "growthRateLast10DaysData": [
+      1.2142857142857142,
+      1.5555555555555556,
+      0.8181818181818182,
+      3.6666666666666665,
+      1.5,
+      1,
+      1,
+      2,
+      1e-13
+    ]
+  },
+  {
+    "country": "Serbia",
+    "caseCount": 55,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.263898944193072,
+    "growthRateLast10DaysData": [
+      1.8,
+      0.29411764705882354,
+      2.8333333333333335,
+      0.46153846153846156,
+      3.25,
+      4,
+      1e-13
+    ]
+  },
+  {
+    "country": "Singapore",
+    "caseCount": 226,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.2277228327228324,
+    "growthRateLast10DaysData": [
+      0.8571428571428571,
+      1.0769230769230769,
+      1.4444444444444444,
+      0.75,
+      2,
+      0.6,
+      0.8333333333333334,
+      1.5,
+      0.6153846153846154,
+      2.6
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "caseCount": 1135,
+    "deathCount": 20,
+    "growthRateLast10Days": 1.2013641132074817,
+    "growthRateLast10DaysData": [
+      1.135483870967742,
+      0.8157894736842105,
+      1.7117117117117118,
+      0.9173553719008265,
+      1.9836065573770492,
+      1.0892857142857142,
+      0.7272727272727273,
+      1.2833333333333334,
+      1.3043478260869565,
+      1.0454545454545454
+    ]
+  },
+  {
+    "country": "Moldova",
+    "caseCount": 23,
+    "deathCount": 0,
+    "growthRateLast10Days": 1.17500000000001,
+    "growthRateLast10DaysData": [
+      0.25,
+      6,
+      1,
+      2,
+      0.5,
+      2,
+      1e-13
+    ]
+  },
+  {
+    "country": "Iran",
+    "caseCount": 13938,
+    "deathCount": 724,
+    "growthRateLast10Days": 1.128522242271568,
+    "growthRateLast10DaysData": [
+      0.8857142857142857,
+      1.0589604344453065,
+      1.1990697674418604,
+      1.1221294363256784,
+      1.0874006810442678,
+      1.480672268907563,
+      0.800807537012113,
+      0.6905204460966543,
+      0.8719611021069692,
+      2.0879864636209815
+    ]
+  },
+  {
+    "country": "Japan",
+    "caseCount": 814,
+    "deathCount": 24,
+    "growthRateLast10Days": 1.0841162272656812,
+    "growthRateLast10DaysData": [
+      0.7906976744186046,
+      0.6935483870967742,
+      1.1071428571428572,
+      1.0980392156862746,
+      0.9444444444444444,
+      2.076923076923077,
+      0.7878787878787878,
+      0.7021276595744681,
+      0.7966101694915254,
+      1.84375
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "caseCount": 51,
+    "deathCount": 2,
+    "growthRateLast10Days": 1.0583333333333533,
+    "growthRateLast10DaysData": [
+      1,
+      1.25,
+      0.5,
+      5.333333333333333,
+      1.5,
+      1,
+      2e-13
+    ]
+  },
+  {
+    "country": "Panama",
+    "caseCount": 43,
+    "deathCount": 1,
+    "growthRateLast10Days": 1.0493894993895094,
+    "growthRateLast10DaysData": [
+      0,
+      0.7777777777777778,
+      0.6923076923076923,
+      1.8571428571428572,
+      1.1666666666666667,
+      6,
+      1e-13
+    ]
+  },
+  {
+    "country": "Colombia",
+    "caseCount": 45,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.9349206349206449,
+    "growthRateLast10DaysData": [
+      0.6111111111111112,
+      2.5714285714285716,
+      1.1666666666666667,
+      3,
+      2,
+      1e-13
+    ]
+  },
+  {
+    "country": "South Korea",
+    "caseCount": 8236,
+    "deathCount": 75,
+    "growthRateLast10Days": 0.8836248688442373,
+    "growthRateLast10DaysData": [
+      0.9736842105263158,
+      0.7102803738317757,
+      0.9727272727272728,
+      0.9649122807017544,
+      0.47107438016528924,
+      1.8473282442748091,
+      0.5282258064516129,
+      0.6757493188010899,
+      0.7598343685300207,
+      0.9324324324324325
+    ]
+  },
+  {
+    "country": "China",
+    "caseCount": 81020,
+    "deathCount": 3217,
+    "growthRateLast10Days": 0.8824416116028265,
+    "growthRateLast10DaysData": [
+      1.1363636363636365,
+      1.1578947368421053,
+      0.8636363636363636,
+      0.9166666666666666,
+      0.8275862068965517,
+      1.45,
+      0.4444444444444444,
+      0.9782608695652174,
+      0.45544554455445546,
+      0.5941176470588235
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "caseCount": 10,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.75000000000002,
+    "growthRateLast10DaysData": [
+      0,
+      7,
+      0.5,
+      2e-13
+    ]
+  },
+  {
+    "country": "Malta",
+    "caseCount": 21,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.7333333333333634,
+    "growthRateLast10DaysData": [
+      0.5,
+      2,
+      1,
+      1.5,
+      2,
+      0.3333333333333333,
+      3e-13
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "caseCount": 8,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.62500000000001,
+    "growthRateLast10DaysData": [
+      1,
+      1,
+      0.25,
+      4,
+      1e-13
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "caseCount": 30,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.6160714285714486,
+    "growthRateLast10DaysData": [
+      1.2857142857142858,
+      0.875,
+      2,
+      2,
+      2e-13
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "caseCount": 5,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.40000000000001,
+    "growthRateLast10DaysData": [
+      4,
+      1e-13
+    ]
+  },
+  {
+    "country": "Andorra",
+    "caseCount": 5,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.40000000000001,
+    "growthRateLast10DaysData": [
+      3,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "caseCount": 10,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.35000000000001996,
+    "growthRateLast10DaysData": [
+      1,
+      0.5,
+      2,
+      2e-13
+    ]
+  },
+  {
+    "country": "Honduras",
+    "caseCount": 6,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.35000000000001996,
+    "growthRateLast10DaysData": [
+      3,
+      0.5,
+      2e-13
+    ]
+  },
+  {
+    "country": "Guyana",
+    "caseCount": 4,
+    "deathCount": 1,
+    "growthRateLast10Days": 0.30000000000001,
+    "growthRateLast10DaysData": [
+      3,
+      1e-13
+    ]
+  },
+  {
+    "country": "Cote dIvoire",
+    "caseCount": 4,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.30000000000001,
+    "growthRateLast10DaysData": [
+      0,
+      3,
+      1e-13
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "caseCount": 4,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.30000000000001,
+    "growthRateLast10DaysData": [
+      1,
+      1,
+      1,
+      1e-13
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "caseCount": 3,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.20000000000001,
+    "growthRateLast10DaysData": [
+      0,
+      2,
+      1e-13
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "caseCount": 15,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.0500000000001,
+    "growthRateLast10DaysData": [
+      0.5,
+      1e-12
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "caseCount": 9,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.050000000000059996,
+    "growthRateLast10DaysData": [
+      0.5,
+      6e-13
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "caseCount": 3,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.050000000000019994,
+    "growthRateLast10DaysData": [
+      0.5,
+      2e-13
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "caseCount": 8,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.033333333333393333,
+    "growthRateLast10DaysData": [
+      0.3333333333333333,
+      6e-13
+    ]
+  },
+  {
+    "country": "Cuba",
+    "caseCount": 4,
+    "deathCount": 0,
+    "growthRateLast10Days": 0.03333333333336333,
+    "growthRateLast10DaysData": [
+      0,
+      0.3333333333333333,
+      3e-13
+    ]
+  },
+  {
+    "country": "switzerland",
+    "caseCount": 267,
+    "deathCount": 3,
+    "growthRateLast10Days": 2.6699999999999997e-12,
+    "growthRateLast10DaysData": [
+      2.67e-11
+    ]
+  },
+  {
+    "country": "United kingdom",
+    "caseCount": 83,
+    "deathCount": 0,
+    "growthRateLast10Days": 8.3e-13,
+    "growthRateLast10DaysData": [
+      8.3e-12
+    ]
+  },
+  {
+    "country": "Czech republic",
+    "caseCount": 31,
+    "deathCount": 0,
+    "growthRateLast10Days": 3.1e-13,
+    "growthRateLast10DaysData": [
+      3.1e-12
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "caseCount": 6,
+    "deathCount": 0,
+    "growthRateLast10Days": 6e-14,
+    "growthRateLast10DaysData": [
+      6e-13
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "caseCount": 3,
+    "deathCount": 0,
+    "growthRateLast10Days": 3e-14,
+    "growthRateLast10DaysData": [
+      0,
+      3e-13
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "caseCount": 2,
+    "deathCount": 0,
+    "growthRateLast10Days": 2e-14,
+    "growthRateLast10DaysData": [
+      0,
+      2e-13
+    ]
+  },
+  {
+    "country": "Namibia",
+    "caseCount": 2,
+    "deathCount": 0,
+    "growthRateLast10Days": 2e-14,
+    "growthRateLast10DaysData": [
+      0,
+      2e-13
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "caseCount": 2,
+    "deathCount": 0,
+    "growthRateLast10Days": 2e-14,
+    "growthRateLast10DaysData": [
+      2e-13
+    ]
+  },
+  {
+    "country": "Swaziland",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Suriname",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Holy See",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Guinea",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "caseCount": 1,
+    "deathCount": 1,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      0,
+      1e-13
+    ]
+  },
+  {
+    "country": "Congo",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "caseCount": 1,
+    "deathCount": 0,
+    "growthRateLast10Days": 1e-14,
+    "growthRateLast10DaysData": [
+      1e-13
+    ]
+  }
+]

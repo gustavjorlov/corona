@@ -73,7 +73,7 @@ getData.then(reduceByCountry).then(data => {
   // console.log(data, data.CountryExp, Object.keys(data).length);
   console.log(sortByGrowthRate(casesPerCountry(data)).slice(0, 25));
   fs.writeFile(
-    path.resolve(__dirname, "growthRate.json"),
+    path.resolve(__dirname, "viz", "growthRate.json"),
     JSON.stringify(sortByGrowthRate(casesPerCountry(data)), null, 2),
     (a, b) => {
       console.log(a, b);
