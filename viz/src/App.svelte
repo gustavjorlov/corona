@@ -3,7 +3,7 @@
   import Summary from "./components/Summary.svelte";
   import CountryChart from "./components/CountryChart.svelte";
   import Layout from "./Layout.svelte";
-  import countries from "./../../growthRate.json";
+  import countries from "./../growthRate.json";
 
   let sortBy = "growthRateLast10Days";
   const setSortBy = _sortBy => {
