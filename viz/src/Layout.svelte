@@ -7,12 +7,12 @@
   }
   div {
     box-sizing: border-box;
-    border: 1px solid #eee;
+    /* border: 1px solid #eee; */
   }
   div#content {
     display: grid;
     grid-gap: 5px;
-    grid-template-areas: "header header" "side main";
+    grid-template-areas: "header header" "main main";
     grid-template-columns: 200px auto;
   }
   div#side {
@@ -28,9 +28,9 @@
   <header>
     <slot name="header" />
   </header>
-  <div id="side">
+  <!-- <div id="side">
     <slot name="side" />
-  </div>
+  </div> -->
   <div id="main">
     <slot name="main" />
   </div>

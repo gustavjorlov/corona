@@ -35,12 +35,12 @@
 
 <Layout>
   <h1 slot="header">Covid 19</h1>
-  <div slot="side">
+  <!-- <div slot="side">
     <ul>
       <li>Hej</li>
       <li>Hoj</li>
     </ul>
-  </div>
+  </div> -->
   <div slot="main">
     <Summary />
     <p>
